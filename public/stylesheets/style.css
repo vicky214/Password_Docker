@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.mainbox{
+  border: 1px solid lightgrey;
+  margin-left:23%;
+  margin-right: 20%;
+}
+
+.panel-title{
+  text-align: center;
+}
+
+.nav-link{
+  color:white;
+}
+
